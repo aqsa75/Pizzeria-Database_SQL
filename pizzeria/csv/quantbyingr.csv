@@ -1,0 +1,110 @@
+item_id,sku,item_name,ing_id,ing_name,recipe_quantity,order_quantity
+it_001,PIZZ-MARG-R,Pizza Margherita Reg,ING001,Pizza dough ball (8 pack),250,18
+it_001,PIZZ-MARG-R,Pizza Margherita Reg,ING002,Tomato sauce,80,18
+it_001,PIZZ-MARG-R,Pizza Margherita Reg,ING003,Mozzarella cheese,170,18
+it_001,PIZZ-MARG-R,Pizza Margherita Reg,ING004,Dried oregano,5,18
+it_002,PIZZ-MARG-L,Pizza Margherita Large,ING001,Pizza dough ball (8 pack),300,7
+it_002,PIZZ-MARG-L,Pizza Margherita Large,ING002,Tomato sauce,100,7
+it_002,PIZZ-MARG-L,Pizza Margherita Large,ING003,Mozzarella cheese,200,7
+it_002,PIZZ-MARG-L,Pizza Margherita Large,ING004,Dried oregano,8,7
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,ING001,Pizza dough ball (8 pack),250,30
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,ING002,Tomato sauce,80,30
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,ING003,Mozzarella cheese,170,30
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,ING005,Spicy salami,50,30
+it_003,PIZZ-DIAV-R,Pizza Diavola (hot) Reg,ING006,Chilli pepper,10,30
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,ING001,Pizza dough ball (8 pack),300,27
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,ING002,Tomato sauce,100,27
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,ING003,Mozzarella cheese,200,27
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,ING005,Spicy salami,70,27
+it_004,PIZZ-DIAV-L,Pizza Diavola (hot) Large,ING006,Chilli pepper,15,27
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,ING001,Pizza dough ball (8 pack),250,9
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,ING002,Tomato sauce,80,9
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,ING003,Mozzarella cheese,170,9
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,ING007,Eggplant,120,9
+it_005,PIZZ-PARM-R,Pizza Parmigiana Reg,ING008,Parmesan cheese,170,9
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,ING001,Pizza dough ball (8 pack),300,10
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,ING002,Tomato sauce,100,10
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,ING003,Mozzarella cheese,200,10
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,ING007,Eggplant,150,10
+it_006,PIZZ-PARM-L,Pizza Parmigiana Large,ING008,Parmesan cheese,200,10
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING001,Pizza dough ball (8 pack),250,22
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING002,Tomato sauce,80,22
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING003,Mozzarella cheese,170,22
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING008,Parmesan cheese,150,22
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING009,Gorgonzola cheese,150,22
+it_007,PIZZ-QUAT-R,Pizza Quattro Formaggi Reg,ING010,Ricotta cheese,150,22
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING001,Pizza dough ball (8 pack),300,39
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING002,Tomato sauce,100,39
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING003,Mozzarella cheese,200,39
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING008,Parmesan cheese,180,39
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING009,Gorgonzola cheese,180,39
+it_008,PIZZ-QUAT-L,Pizza Quattro Formaggi Large,ING010,Ricotta cheese,180,39
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,ING001,Pizza dough ball (8 pack),250,14
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,ING002,Tomato sauce,80,14
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,ING003,Mozzarella cheese,170,14
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,ING011,Anchovies,100,14
+it_009,PIZZ-NAPO-R,Pizza Napolitana Reg,ING012,Capers,5,14
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,ING001,Pizza dough ball (8 pack),300,9
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,ING002,Tomato sauce,100,9
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,ING003,Mozzarella cheese,200,9
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,ING011,Anchovies,50,9
+it_010,PIZZ-NAPO-L,Pizza Napolitana Large,ING012,Capers,7,9
+it_011,PIZZ-PEPP-R,Pizza Pepperoni Reg,ING001,Pizza dough ball (8 pack),250,10
+it_011,PIZZ-PEPP-R,Pizza Pepperoni Reg,ING002,Tomato sauce,80,10
+it_011,PIZZ-PEPP-R,Pizza Pepperoni Reg,ING003,Mozzarella cheese,170,10
+it_011,PIZZ-PEPP-R,Pizza Pepperoni Reg,ING013,Pepperoni,200,10
+it_012,PIZZ-PEPP-L,Pizza Pepperoni Large,ING001,Pizza dough ball (8 pack),300,18
+it_012,PIZZ-PEPP-L,Pizza Pepperoni Large,ING002,Tomato sauce,100,18
+it_012,PIZZ-PEPP-L,Pizza Pepperoni Large,ING003,Mozzarella cheese,200,18
+it_012,PIZZ-PEPP-L,Pizza Pepperoni Large,ING013,Pepperoni,240,18
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING001,Pizza dough ball (8 pack),250,6
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING002,Tomato sauce,80,6
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING003,Mozzarella cheese,170,6
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING014,Shrimp,150,6
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING015,Tuna,150,6
+it_013,PIZZ-SEAF-R,Pizza Seafood Reg,ING016,Calamari,150,6
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING001,Pizza dough ball (8 pack),300,2
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING002,Tomato sauce,100,2
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING003,Mozzarella cheese,200,2
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING014,Shrimp,175,2
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING015,Tuna,175,2
+it_014,PIZZ-SEAF-L,Pizza Seafood Large,ING016,Calamari,175,2
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,ING001,Pizza dough ball (8 pack),250,1
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,ING002,Tomato sauce,80,1
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,ING003,Mozzarella cheese,170,1
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,ING017,Ham,130,1
+it_015,PIZZ-HAWA-R,Pizza Hawaiian Reg,ING018,Pineapple,100,1
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,ING001,Pizza dough ball (8 pack),300,6
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,ING002,Tomato sauce,100,6
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,ING003,Mozzarella cheese,200,6
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,ING017,Ham,150,6
+it_016,PIZZ-HAWA-L,Pizza Hawaiian Large,ING018,Pineapple,120,6
+it_017,SIDE-GARL-R,Garlic Bread,ING001,Pizza dough ball (8 pack),250,17
+it_017,SIDE-GARL-R,Garlic Bread,ING019,Garlic and parsley butter,15,17
+it_018,SIDE-CHIC-R,Chicken Wings,ING020,Chicken wings,120,30
+it_019,SIDE-BREA-R,Breadsticks,ING001,Pizza dough ball (8 pack),250,46
+it_020,SIDE-CAES-R,Caesar Salad,ING021,Rotisserie chicken pieces,120,37
+it_020,SIDE-CAES-R,Caesar Salad,ING022,Croutons,50,37
+it_020,SIDE-CAES-R,Caesar Salad,ING023,Romain lettuce,100,37
+it_020,SIDE-CAES-R,Caesar Salad,ING024,Caesar dressing,20,37
+it_021,DESS-ICE-CHOC,Vanilla Ice cream,ING025,Vanilla ice cream,100,8
+it_022,DESS-ICE-VANI,Chocolate Ice cream,ING026,Chocolate ice cream,100,37
+it_023,DESS-ICE-STRA,Strawberry Ice cream,ING027,Strawberry ice cream,100,9
+it_024,DESS-ICE-PIST,Pistachio Ice cream,ING028,Pistachio ice cream,100,6
+it_025,DESS-CHOC-BROW,Chocolate Brownie,ING029,Chocolate brownie,75,43
+it_026,DESS-BANO-PIE,Banoffee Pie,ING030,Banoffee pie,120,35
+it_027,DESS-FRUI-SALA,Fruit Salad,ING031,Fruit salad,150,19
+it_028,BEVA-CC-REG33,Coca Cola Regular 33cl,ING032,Coca Cola Regular 33cl,1,14
+it_029,BEVA-CC-REG1500,Coca Cola Regular 1.5l,ING033,Coca Cola Regular 1.5l,1,10
+it_030,BEVA-CC-DIE33,Coca Cola Diet 33cl,ING034,Coca Cola Diet 33cl,1,8
+it_031,BEVA-CC-DIE1500,Coca Cola Diet 1.5l,ING035,Coca Cola Diet 1.5l,1,1
+it_032,BEVA-7U-REG33,Sprite Regular 33cl,ING036,Sprite Regular 33cl,1,3
+it_033,BEVA-7U-REG1500,Sprite Regular 1.5l,ING037,Sprite Regular 1.5l,1,11
+it_034,BEVA-7U-DIE33,Sprite Diet 33cl,ING038,Sprite Diet 33cl,1,1
+it_036,BEVA-FAN-REG33,Fanta Regular 33cl,ING040,Fanta Regular 33cl,1,29
+it_037,BEVA-FAN-REG1500,Fanta Regular 1.5l,ING041,Fanta Regular 1.5l,1,6
+it_039,BEVA-FAN-DIE1500,Fanta Diet 1.5l,ING043,Fanta Diet 1.5l,1,2
+it_040,BEVA-SAN-REG33,San Pelligrino 33cl,ING044,San Pelligrino 33cl,1,4
+it_041,BEVA-SAN-REG1500,San Pelligrino 1.5l,ING045,San Pelligrino 1.5l,1,9
+it_042,BEVA-PER-REG33,Perrier 33cl,ING046,Perrier 33cl,1,3
+it_043,BEVA-PER-REG1500,Perrier 1.5l,ING047,Perrier 1.5l,1,10
